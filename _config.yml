@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Rukmini Nazre"
 title_separator          : "-"
 name                     : &name "Rukmini Nazre"
-description              : &description "Student at COEP Technological University"
+description              : &description "MS in Computer Science at UMass Amherst"
 url                      : https://rukmini-17.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rukmini-17/rukmini-17.github.io"
@@ -26,15 +26,15 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Student at COEP Technological University"
   location         : "Pune, India"
-  employer         : "COEP Technological University"
+  employer         : "University of Massachusetts Amherst"
   uri              : # URL
-  email            : "nazrerukmini@gmail.com" 
+  email            : "rnazre@umass.edu" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Nazre%2C+R" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=qC5aLvAAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-0681-2276"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "rukmini-17"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # rukmini-nazre-10832225b
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
