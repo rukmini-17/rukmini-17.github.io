@@ -1,7 +1,7 @@
 ---
 title: "A Temporal Convolutional Network-based Approach for Network Intrusion Detection"
 collection: publications
-permalink: /publication/2024-11-22-network-intrusion
+permalink: /2024-11-22-network-intrusion
 excerpt: 'A TCN model with residual blocks and dilated convolutions for network traffic analysis, achieving 96.72% accuracy on the Edge-IIoTset dataset.'
 date: 2024-11-22
 venue: '2024 International Conference on Integrated Intelligence and Communication Systems (ICIICS)'
