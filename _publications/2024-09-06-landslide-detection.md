@@ -8,7 +8,7 @@ venue: '2024 Asian Conference on Intelligent Technologies (ACOIT)'
 paperurl: 'https://ieeexplore.ieee.org/document/10939989'
 citation: 'O. Oak, <b>R. Nazre</b>, S. Naigaonkar, S. Sawant, H. Vaidya. (2024). "A Comparative Analysis of CNN-based Deep Learning Models for Landslide Detection." <i>IEEE ACOIT 2024</i>.'
 header:
-  teaser: "/images/landslide-teaser.png"
+  teaser: "/landslide-teaser.png"
 ---
 
 **Abstract:**
