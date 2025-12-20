@@ -8,7 +8,7 @@ venue: '2024 International Conference on Integrated Intelligence and Communicati
 paperurl: 'https://ieeexplore.ieee.org/document/10860234'
 citation: '<b>R. Nazre</b>, R. Budke, O. Oak, S. Sawant, A. Joshi. (2024). "A Temporal Convolutional Network-based Approach for Network Intrusion Detection." <i>IEEE ICIICS 2024</i>.'
 header:
-  teaser: "/images/tcn-teaser.png"
+  teaser: "/tcn-teaser.png"
 ---
 
 **Abstract:**
