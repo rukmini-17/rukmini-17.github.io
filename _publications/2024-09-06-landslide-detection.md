@@ -15,6 +15,6 @@ header:
 Landslides inflict substantial societal and economic damage. The purpose of this work is to investigate CNNs’ potential in more detail. We compared four traditional semantic segmentation models (U-Net, LinkNet, PSPNet, and FPN) utilizing a ResNet50 backbone. According to the experimental results, LinkNet gave the best results among the four models having an Accuracy of 97.49% and a F1-score of 85.7%.
 
 **Dataset Samples:**
-<img src="/images/landslide-sample.jpg" alt="Landslide Dataset Samples" width="600"/>
+<img src="/images/landslide-sample.png" alt="Landslide Dataset Samples" width="600"/>
 
 [Download paper here](https://ieeexplore.ieee.org/document/10939989)
