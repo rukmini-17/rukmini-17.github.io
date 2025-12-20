@@ -8,7 +8,7 @@ venue: '2024 5th IEEE Global Conference for Advancement in Technology (GCAT)'
 paperurl: 'https://ieeexplore.ieee.org/document/10923989'
 citation: 'O. Oak, <b>R. Nazre</b>, R. Budke, Y. Mahatekar. (2024). "A Novel Multivariate Bi-LSTM Model for Short-Term Equity Price Forecasting." <i>IEEE GCAT 2024</i>.'
 header:
-  teaser: "/images/bilstm-approach.jpg"
+  teaser: "/images/bilstm-approach.png"
 ---
 
 **Abstract:**
