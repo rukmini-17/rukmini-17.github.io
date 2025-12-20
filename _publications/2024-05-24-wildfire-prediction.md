@@ -8,7 +8,7 @@ venue: '2024 5th IEEE International Conference for Emerging Technology (INCET)'
 paperurl: 'https://ieeexplore.ieee.org/document/10593496'
 citation: 'O. Oak, <b>R. Nazre</b>, S. Naigaonkar, S. Sawant, A. Joshi. (2024). "A Novel Transfer Learning based CNN Model for Wildfire Susceptibility Prediction." <i>IEEE INCET 2024</i>.'
 header:
-  teaser: "/images/wildfire-specimen.png"
+  teaser: "/wildfire-specimen.png"
 ---
 
 **Abstract:**
