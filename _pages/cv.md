@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Computer Science**, University of Massachusetts Amherst, 2027 (Expected)
+* **B.Tech. in Computer Engineering**, College of Engineering Pune, 2025
+  * *Honors in Data Science, CGPA: 8.59/10*
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Summer 2024: Research Intern**, TCS Research (Pune, India)
+  * Curated a structured dataset of character relations from unstructured narrative text (Harry Potter corpus).
+  * Conducted comparative experiments with multilabel classification algorithms (Random Forest, SVM, Neural Networks) using LLM embeddings (BERT, DistilBERT), achieving 89.6% accuracy.
+  * Designed and implemented a Neo4j-based knowledge graph for analyzing relational structures.
+  * *Technologies:* Python, PyTorch, Neo4j
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:** Python, C++, Java, C, JavaScript, R, Julia
+* **Databases & Web:** SQL, MongoDB, Cassandra, Neo4j, HTML/CSS, Node.js, Express, React
+* **ML Frameworks & Tools:** PyTorch, LangChain, Hugging Face, Scikit-learn, TensorFlow, Spark, Kafka, Docker, Linux, LaTeX
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Narrative Sense Disambiguation with LLMs** (Dec 2025): Engineered a word-sense plausibility pipeline using DeBERTa/RoBERTa and GPT-4 synthetic data.
+* **Scalable Sequence Modeling (Mamba vs. Transformers)** (Dec 2025): Benchmarked computational complexity and memory scaling of Selective SSMs.
+* **TERRA-CD: Semantic Change Detection** (March 2025): Created a benchmark dataset of 5,221 paired Sentinel-2 images; trained Siamese networks for change detection.
