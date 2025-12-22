@@ -21,7 +21,7 @@ repository               : "rukmini-17/rukmini-17.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Rukmini Nazre"
   pronouns         : # example: "she/her"  
   bio              : "MS in Computer Science student at UMass Amherst"
