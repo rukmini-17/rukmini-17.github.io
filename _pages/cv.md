@@ -39,4 +39,5 @@ Projects
 ======
 * **Narrative Sense Disambiguation with LLMs** (Dec 2025): Engineered a word-sense plausibility pipeline using DeBERTa/RoBERTa and GPT-4 synthetic data.
 * **Scalable Sequence Modeling (Mamba vs. Transformers)** (Dec 2025): Benchmarked computational complexity and memory scaling of Selective SSMs.
+* **Reverse-Mode Automatic Differentiation Engine** (Oct 2025): Developed a computational graph framework from scratch to enable gradient computation via backpropagation; engineered 11 core operations including matmul and logdet.
 * **TERRA-CD: Semantic Change Detection** (March 2025): Created a benchmark dataset of 5,221 paired Sentinel-2 images; trained Siamese networks for change detection.
