@@ -4,7 +4,7 @@ excerpt: "Engineered a full-stack RAG agent on Cloudflare Workers that acts as a
 collection: portfolio
 date: 2025-12-25
 header:
-  teaser: "second-brain-benchmark.png"
+  teaser: "screenshot.png"
 ---
 
 **Technologies:** Cloudflare Workers, Durable Objects, Vectorize (RAG), Llama 3.3, TypeScript, Python
