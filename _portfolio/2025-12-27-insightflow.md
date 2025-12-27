@@ -4,7 +4,7 @@ excerpt: "Engineered a serverless AI agent on Cloudflare Workers that converts n
 collection: portfolio
 date: 2025-12-27
 header:
-  teaser: "insightflow.gif"
+  teaser: "insightflow1.png"
 ---
 
 **Technologies:** Cloudflare Workers, D1 (SQLite), Llama 3, TypeScript
