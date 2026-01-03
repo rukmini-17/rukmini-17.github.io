@@ -37,6 +37,8 @@ Publications
 
 Projects
 ======
+* **gh-analyzer: High-Performance GitHub Analyzer** (Jan 2026): Developed a concurrent CLI tool in Go using Goroutines and Channels to fetch repository metrics; reduced analysis latency by ~90% (<200ms for 20+ repositories) compared to sequential execution.
+* **DreamShaper Interactive Workbench** (Dec 2025): Engineered a real-time generative prototyping tool mirroring Adobe Firefly; optimized Stable Diffusion using Latent Consistency Models (LCM) to reduce inference steps by 90% (50→6), achieving <1.3s latency while generating 5 concurrent aesthetic variations via a custom multi-threaded engine.
 * **InsightFlow: Serverless AI Analytics Agent** (Dec 2025): Architected a serverless text-to-SQL agent on Cloudflare Workers using Llama 3; engineered a custom linear regression forecasting engine in TypeScript to analyze 1,000+ sales records with <50ms latency.
 * **AI Interview Companion (RAG Agent)** (Dec 2025): Engineered a serverless RAG system using Cloudflare Workers and Vectorize, featuring a custom Python evaluation pipeline that validated 90.3% semantic retrieval accuracy against ground-truth interview data.
 * **Narrative Sense Disambiguation with LLMs** (Dec 2025): Engineered a word-sense plausibility pipeline using DeBERTa/RoBERTa and GPT-4 synthetic data.
