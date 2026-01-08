@@ -9,7 +9,7 @@ header:
 
 **Technologies:** Python, PyTorch, Diffusers, Gradio, LCM-LoRA
 
-[<i class="fab fa-github"></i> View on GitHub](https://github.com/rukmininazre/dreamshaper-workbench) &nbsp;&nbsp; [<i class="fas fa-rocket"></i> Live Demo](https://huggingface.co/spaces/rukmininazre/dreamshaper-workbench)
+[<i class="fab fa-github"></i> View on GitHub](https://github.com/rukmini-17/dreamshaper-workbench) &nbsp;&nbsp; [<i class="fas fa-rocket"></i> Live Demo](https://huggingface.co/spaces/rukmininazre/dreamshaper-workbench)
 
 ### Description
 * **Real-Time Pipeline:** Engineered a sub-second generative prototyping tool that reduces Stable Diffusion inference steps by **90% (50 → 6 steps)** using **Latent Consistency Models (LCM)**, achieving **<1.3s latency** on consumer GPUs while maintaining photorealistic texture fidelity.
