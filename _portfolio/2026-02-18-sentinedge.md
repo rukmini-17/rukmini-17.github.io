@@ -19,6 +19,3 @@ header:
 * **High-Fidelity Detection:** Achieved a detection accuracy of **99.21%** with a **90.00% Recall** rate, optimizing the pipeline to minimize false negatives in a high-risk financial environment.
 * **Robust Distributed Processing:** Resolved complex **serialization (pickling)** challenges and implemented **Spark Checkpointing** to ensure exactly-once processing and fault tolerance across distributed worker nodes.
 * **Automated MLOps Auditing:** Developed a custom evaluation suite to calculate Precision (**94.03%**) and Recall metrics automatically, providing a continuous feedback loop for heuristic tuning.
-
-![SentinEdge Metrics](/images/sentinedge_metrics.png)
-*Figure 1: Real-time user behavioral metrics captured in the DynamoDB Feature Store.*
